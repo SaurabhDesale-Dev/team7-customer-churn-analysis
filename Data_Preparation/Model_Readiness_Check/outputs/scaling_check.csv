@@ -1,0 +1,7 @@
+,,tenure,MonthlyCharges
+Training,mean,0.0,-0.0
+Training,std,1.0,1.0
+Validation,mean,0.01,0.039
+Validation,std,0.996,1.006
+Test,mean,0.006,-0.002
+Test,std,0.998,0.98

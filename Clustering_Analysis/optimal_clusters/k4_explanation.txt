@@ -1,0 +1,5 @@
+Why We Selected K=4
+
+We used the Elbow Method to test different numbers of clusters and selected K=4 as a practical choice for customer segmentation.
+
+The four clusters represent customers based on tenure and monthly charges. This helps us compare customer behaviour, understand churn rates and identify customers who may be more likely to leave.

@@ -46,4 +46,3 @@ for their deliverable. Saurabh checks each upload against the rubric.
 
 ## Links
 - Jira: https://saurabhdesale1999.atlassian.net/jira/software/projects/T7/boards/2/timeline
-- Confluence: [add Data Repository link]
